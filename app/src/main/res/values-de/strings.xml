@@ -13,4 +13,8 @@
     <string name="desc_add_image_buttom">Schaltfläche zum Teilen von Bildern</string>
     <string name="desc_img_displayed">Ausgewähltes Bild</string>
     <string name="desc_text_EditView_shared">Feld zum Teilen von Text</string>
+    <string name="digit_tag">Tag informieren</string>
+    <string name="waiting_for_connection">Warten auf Verbindung</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galerie</string>
 </resources>

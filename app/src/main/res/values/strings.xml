@@ -12,4 +12,8 @@
     <string name="desc_add_image_buttom">Button to share images</string>
     <string name="desc_img_displayed">Selected image</string>
     <string name="desc_text_EditView_shared">Field to share text</string>
+    <string name="digit_tag">Inform Tag</string>
+    <string name="waiting_for_connection">Waiting for connection</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
 </resources>

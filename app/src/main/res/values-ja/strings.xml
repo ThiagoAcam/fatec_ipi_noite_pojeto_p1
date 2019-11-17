@@ -13,4 +13,8 @@
     <string name="desc_add_image_buttom">画像を共有するボタン</string>
     <string name="desc_img_displayed">選択した画像</string>
     <string name="desc_text_EditView_shared">テキストを共有するフィールド</string>
+    <string name="digit_tag">通知タグ</string>
+    <string name="waiting_for_connection">接続待ち</string>
+    <string name="camera">カメラ</string>
+    <string name="gallery">ギャラリー</string>
 </resources>

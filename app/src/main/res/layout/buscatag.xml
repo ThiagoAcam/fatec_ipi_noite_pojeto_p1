@@ -19,6 +19,7 @@
             android:src="@drawable/img_text"
             android:id="@+id/tagEditText"
             android:scaleType="fitCenter"
+            android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890_-"
             android:hint="@string/hint_tag"
             android:contentDescription="@string/desc_busca_tag"
             />
